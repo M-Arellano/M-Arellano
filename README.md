@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manuel Arellano from San Diego. Currently living in Grand Rapids, MI.
-- 👀 I’m interested in Front End Web Development. I've been doing HTML and CSS for a while, but now I am looking to expand my skillset beyond web design.
+- 👀 I’m interested in Front End Web Development. I've been using HTML and CSS for a few years, but now I am looking to expand my skillset into object oriented programming languages.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on any projects where my skills would be useful while I grow as a developer.
 - 📫 You can reach me at GRDevman@gmail.com
